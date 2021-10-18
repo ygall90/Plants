@@ -1,9 +1,11 @@
 body {
+background-image: url("images/WatercolorPots.jpg");
+font-family: Georgia, Times, serif;
 
-  font-family: Georgia, Times, serif;
 }
 
-header {
-    background-image: url("images/header.jpg");
+nav li {
+display: inline;
+text-align: left;
+margin-right: 30px;
 }
-
