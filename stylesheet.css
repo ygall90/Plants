@@ -1,4 +1,9 @@
 body {
-  background-color: #eee8ef;
+
   font-family: Georgia, Times, serif;
 }
+
+header {
+    background-image: url("images/header.jpg");
+}
+
