@@ -9,3 +9,12 @@ display: inline;
 text-align: left;
 margin-right: 30px;
 }
+
+#NavLinks {
+background-color: red;
+padding-left: 0px
+}
+
+.List {
+padding: 0px
+}
