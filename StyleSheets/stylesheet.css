@@ -1,5 +1,5 @@
 body {
-background-image: url("images/WatercolorPots.jpg");
+background-image: url("../images/WatercolorPots.jpg");
 font-family: Georgia, Times, serif;
 
 }
@@ -11,10 +11,11 @@ margin-right: 30px;
 }
 
 #NavLinks {
-background-color: red;
+font-color: #aaaaaa;
+background-color: #d0e5c5;
 padding-left: 0px
 }
 
 .List {
-padding: 0px
+padding: 20px
 }
