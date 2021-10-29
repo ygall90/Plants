@@ -1,21 +1,22 @@
 body {
-background-image: url("../images/WatercolorPots.jpg");
-font-family: Georgia, Times, serif;
+    background-image: url("/PlantWebsite/StyleSheets/WatercolorPots.jpg");
+    background-color: none;
+    font-family: Georgia, Times, serif;
 
 }
 
 nav li {
-display: inline;
-text-align: left;
-margin-right: 30px;
+    display: inline;
+    text-align: left;
+    margin-right: 30px;
 }
 
 #NavLinks {
-font-color: #aaaaaa;
-background-color: #d0e5c5;
-padding-left: 0px
+    font-color: #aaaaaa;
+    background-color: #d0e5c5;
+    padding-left: 0px
 }
 
 .List {
-padding: 20px
+    padding: 20px
 }
